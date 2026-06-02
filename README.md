@@ -23,13 +23,14 @@ Technical Skills
 * JavaScript
 * Git & GitHub
 * Basic Data Analysis
-* Object-Oriented Programming
+* Object-Oriented programming 
 
-Projects
+projects
 
+Bank Account 
+A simple object oriented banking system built using JavaScript that simulates real life 
 
-
-Technologies: 
+Technologies: JavaScript 
 
 Playing Cards layout 
 
@@ -46,8 +47,7 @@ Technologies: Python
 Certifications
 
 * Saylor Academy Computer Science Courses
-* SoloLearn Programming Certificates
-* Other online programming courses
+
 
 Leadership & Experience
 
@@ -61,5 +61,5 @@ My long-term goal is to combine computer engineering and data science to develop
 
 Connect With Me
 
-GitHub: https://github.com/islamiyyah1
+GitHub: https://github.com/islamiyyah123
 
