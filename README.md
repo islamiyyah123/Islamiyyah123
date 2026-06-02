@@ -27,19 +27,19 @@ Technical Skills
 
 Projects
 
-Weather Dashboard
+hash table
 
 A web application that displays real-time weather data using API integration.
 
-Technologies: HTML, CSS, JavaScript, API
+Technologies: HTML
 
-Playing Cards Layout
+Playing Cards layout 
 
 A front-end project demonstrating responsive layout design using HTML and CSS.
 
 Technologies: HTML, CSS
 
-Rectangle Calculator
+Calculator
 
 A Python project that calculates area and perimeter using object-oriented programming.
 
