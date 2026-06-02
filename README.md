@@ -27,11 +27,9 @@ Technical Skills
 
 Projects
 
-hash table
 
-A web application that displays real-time weather data using API integration.
 
-Technologies: HTML
+Technologies: 
 
 Playing Cards layout 
 
